@@ -117,6 +117,8 @@ let finals = [
     { "ก": "Ktp" },
     { "ด": "Ktp" },
     { "บ": "Ktp" },
+    { "ถ": "Ktp" },
+    { "ต": "Ktp" },
 
     { "ง": "Sonorant" },
     { "น": "Sonorant" },
@@ -124,7 +126,6 @@ let finals = [
     { "ม": "Sonorant" },
     { "ย": "Sonorant" },
     { "ร": "Sonorant" },
-    { "ถ": "Sonorant" },
     { "ว": "Sonorant" },
 ];
 
